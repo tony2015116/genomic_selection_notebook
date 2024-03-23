@@ -96,7 +96,7 @@ format:
 
     fontsize: 1.2em
     linestretch: 1.5
-    mainfont: "LXGW WenKai Screen"
+    #mainfont: "LXGW WenKai Screen"
     #monofont:
     language: custom_language-zh.yml
     lang: zh
